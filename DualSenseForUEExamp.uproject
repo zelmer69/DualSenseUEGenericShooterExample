@@ -3,6 +3,16 @@
 	"EngineAssociation": "5.1",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "DualSenseForUEExamp",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"CoreUObject"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -13,7 +23,7 @@
 		},
 		{
 			"Name": "AssetsCleaner",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3caab7c6e81f449296989122c043ae21"
 		}
 	]

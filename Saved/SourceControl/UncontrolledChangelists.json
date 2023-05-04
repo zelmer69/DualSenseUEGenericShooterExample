@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/GamesAndProjects/DualSenseForUEExamp/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/GamesAndProjects/DualSenseForUEExamp/Content/FirstPerson/Blueprints/GenericFPS.uasset",
+				"C:/GamesAndProjects/DualSenseForUEExamp/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/GamesAndProjects/DualSenseForUEExamp/Content/NewWorld.umap",
+				"C:/GamesAndProjects/DualSenseForUEExamp/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
